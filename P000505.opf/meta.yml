@@ -1,15 +1,16 @@
-id: opecha:P000505
+id: P000505
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W8LS18128
   title: སྒྲོལ་མའི་གཡུལ་མདོས།
-  volume:
+  author: ''
+  volumes:
     bf581614fe384931af4bb5ab00e4c926:
       image_group_id: I8LS18155
       title: Volume 1 of sgrol ma'i g.yul mdos/
       volume_number: 1
       total_pages: 44
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: སྒྲོལ་མའི་གཡུལ་མདོས།
   author: ''
